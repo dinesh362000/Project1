@@ -25,4 +25,4 @@ Logistics), in the second floor (IT, Finance and Admin). And in third floor (HR 
  10. In IT department we can Install one PC to access all router and switches with ssh.
 
 # Design of the small company network topology
-<img width="1919" height="750" alt="Screenshot 2025-12-25 003055" src="https://github.com/user-attachments/assets/ced293c7-e3c5-47b0-81ec-e1e6609d620d" />
+<img width="1919" height="700" alt="Screenshot 2025-12-25 003055" src="https://github.com/user-attachments/assets/ced293c7-e3c5-47b0-81ec-e1e6609d620d" />
